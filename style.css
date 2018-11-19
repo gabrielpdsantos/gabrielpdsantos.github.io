@@ -9,6 +9,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+  color:black;
+}
+
 hr {
   max-width: 65px;
   border-width: 3px;
@@ -19,12 +23,6 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
-h2 {
-  color:black;
-}
-h3 {
-  color: black;
-}
 header.startup {
   background-position: center;
   background-image: url("agua.jpg");
